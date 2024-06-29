@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Cafe-Street/static/css/main.efed14c4.css",
+    "main.js": "/Cafe-Street/static/js/main.87ef3318.js",
+    "static/media/discount-bg.png": "/Cafe-Street/static/media/discount-bg.aa1a646e9ada27774cbf.png",
+    "static/media/presentation-coffe.svg": "/Cafe-Street/static/media/presentation-coffe.3c20e0f580eacc5f7d261d8527fccdf2.svg",
+    "static/media/about-img.jpeg": "/Cafe-Street/static/media/about-img.6c75e3fa6e755332d4d3.jpeg",
+    "static/media/Presentation-bg-1.png": "/Cafe-Street/static/media/Presentation-bg-1.120cd57f70e337b0ba45.png",
+    "static/media/Presentation-bg-2.png": "/Cafe-Street/static/media/Presentation-bg-2.8d877668f4259b0c2791.png",
+    "static/media/delivery-1.svg": "/Cafe-Street/static/media/delivery-1.3207a266ffa90c9de5b166a2857182d1.svg",
+    "static/media/menu-5.jpeg": "/Cafe-Street/static/media/menu-5.517b036ece85257b5136.jpeg",
+    "static/media/menu-1.jpeg": "/Cafe-Street/static/media/menu-1.7a53687c6e7a3d822c81.jpeg",
+    "static/media/menu-6.jpeg": "/Cafe-Street/static/media/menu-6.4b0b597dac1b6b0a6769.jpeg",
+    "static/media/popular-coffee-1.jpeg": "/Cafe-Street/static/media/popular-coffee-1.5728c2e9335c8d20c85a.jpeg",
+    "static/media/feedback-1.jpeg": "/Cafe-Street/static/media/feedback-1.01ca0fe99a8d500e17ae.jpeg",
+    "static/media/menu-3.jpeg": "/Cafe-Street/static/media/menu-3.571ef755dc3c1cd12f24.jpeg",
+    "static/media/popular-coffee-3.jpeg": "/Cafe-Street/static/media/popular-coffee-3.89db67fa5d6f4097d48d.jpeg",
+    "static/media/menu-2.jpeg": "/Cafe-Street/static/media/menu-2.ea6ef0d77b21998b8b6e.jpeg",
+    "static/media/menu-4.jpeg": "/Cafe-Street/static/media/menu-4.036c01176986558f009f.jpeg",
+    "static/media/popular-coffee-2.jpeg": "/Cafe-Street/static/media/popular-coffee-2.76271ea3cfac4c65bc14.jpeg",
+    "static/media/feedback-2.jpeg": "/Cafe-Street/static/media/feedback-2.fd2f83718949ac9ac454.jpeg",
+    "static/media/delivery-2.svg": "/Cafe-Street/static/media/delivery-2.6d6c0e3730074a510996de0a869f5233.svg",
+    "static/media/feedback-3.jpeg": "/Cafe-Street/static/media/feedback-3.26958dec76f50fc33ec8.jpeg",
+    "static/media/delivery-3.svg": "/Cafe-Street/static/media/delivery-3.5943bffcdb513abff29854877de0526e.svg",
+    "static/media/about-bg.png": "/Cafe-Street/static/media/about-bg.6deaecfabc1220f50a3c.png",
+    "static/media/feedback-bg.png": "/Cafe-Street/static/media/feedback-bg.588d3ecbfac12d0043f7.png",
+    "static/media/cup.svg": "/Cafe-Street/static/media/cup.79aaba3b7e50952aafa6.svg",
+    "static/media/presentation-basket.svg": "/Cafe-Street/static/media/presentation-basket.2949f8952a66b0d5a405020a79ca4b87.svg",
+    "static/media/popular-basket.svg": "/Cafe-Street/static/media/popular-basket.9dbf16636f50d4105a2bd5c57a5a8e94.svg",
+    "static/media/star.svg": "/Cafe-Street/static/media/star.b286702cb174524269e881e571b68786.svg",
+    "static/media/popular-star.svg": "/Cafe-Street/static/media/popular-star.8e7b1f95f1397c34f5cede1efc17d3d1.svg",
+    "static/media/basket.svg": "/Cafe-Street/static/media/basket.735ef9438e40ecba199564916454c026.svg",
+    "static/media/search.svg": "/Cafe-Street/static/media/search.de0553584dd40698919f.svg",
+    "index.html": "/Cafe-Street/index.html",
+    "main.efed14c4.css.map": "/Cafe-Street/static/css/main.efed14c4.css.map",
+    "main.87ef3318.js.map": "/Cafe-Street/static/js/main.87ef3318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efed14c4.css",
+    "static/js/main.87ef3318.js"
+  ]
+}
