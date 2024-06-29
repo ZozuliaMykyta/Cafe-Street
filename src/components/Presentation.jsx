@@ -1,6 +1,7 @@
 import React from "react";
 import basketIcon from "../img/icons/presentation-basket.svg";
 import starIcon from "../img/star.svg";
+import coffeeImg from "../img/presentation-coffe.svg";
 
 export default function Presentation() {
   return (
@@ -24,7 +25,7 @@ export default function Presentation() {
       <div className="presentation__block-container">
         <div className="presentation__block">
           <div className="presentation__img">
-            <img src="/img/presentation-coffe.svg" alt="coffe" />
+            <img src={coffeeImg} alt="coffe" />
           </div>
           <div className="presentation__item presentation__block-item-1">
             <div className="presentation__block-item-sh">

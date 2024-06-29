@@ -23,7 +23,10 @@ export default function Header({ basket, toggleBasket, openBasket }) {
       <div className="header__container container">
         <div className="header__logo">
           <a href="#!">
-            <img src="/img/icons/header-logo.svg" alt="cafe street" />
+            <img
+              src={`${process.env.PUBLIC_URL}/img/icons/header-logo.svg`}
+              alt="cafe street"
+            />
           </a>
         </div>
         <div className="header__taskbar">
